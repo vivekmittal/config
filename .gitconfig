@@ -1,0 +1,7 @@
+[push]
+   default = tracking
+[user]
+	email = vmittal69@gmail.com
+	name = Vivek Mittal
+[core]
+	autocrlf = false

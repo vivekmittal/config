@@ -1,4 +1,4 @@
 config
 ======
 
-dot files
+Configurations
